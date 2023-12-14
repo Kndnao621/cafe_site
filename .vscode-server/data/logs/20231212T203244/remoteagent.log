@@ -1,0 +1,43 @@
+2023-12-12 20:32:44.605 [info] 
+
+
+
+
+2023-12-12 20:32:44.605 [info] Extension host agent started.
+2023-12-12 20:32:44.605 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kndnao621/.vscode-server/extensions
+2023-12-12 20:32:44.621 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kndnao621/.vscode-server/extensions
+2023-12-12 20:32:44.701 [info] [127.0.0.1][1a0dc47f][ManagementConnection] New connection established.
+2023-12-12 20:32:44.746 [info] Installing extensions...
+2023-12-12 20:32:44.895 [info] [127.0.0.1][0d2b3b1c][ExtensionHostConnection] New connection established.
+2023-12-12 20:32:44.900 [info] [127.0.0.1][0d2b3b1c][ExtensionHostConnection] <223> Launched Extension Host Process.
+2023-12-12 20:32:45.005 [info] [127.0.0.1][d43fc078][ManagementConnection] New connection established.
+2023-12-12 20:32:45.033 [info] Installing extensions...
+2023-12-12 20:32:45.288 [info] [127.0.0.1][77cf6c77][ExtensionHostConnection] New connection established.
+2023-12-12 20:32:45.322 [info] [127.0.0.1][77cf6c77][ExtensionHostConnection] <252> Launched Extension Host Process.
+2023-12-12 20:32:45.592 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-12-12 20:32:45.913 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-12-12 20:32:45.948 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:46.077 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:46.333 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:46.456 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.260 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.393 [info] Extracted extension to file:///home/kndnao621/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.84.2023111509: ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.403 [info] Renamed to /home/kndnao621/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.84.2023111509
+2023-12-12 20:32:47.406 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.414 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.416 [error] Unknown error while installing extension ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.416 [error] Error: Failed Installing Extensions: ms-ceintl.vscode-language-pack-ja
+    at d.installExtensions (/home/kndnao621/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:131:109)
+    at async y.q (/home/kndnao621/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:40430)
+    at async y.k (/home/kndnao621/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:39328)
+    at async y.scanExtensions (/home/kndnao621/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:39011)
+    at async u.call (/home/kndnao621/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:42125)
+2023-12-12 20:32:47.520 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-12-12 20:32:47.522 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.84.2023111509 was successfully installed.
+2023-12-12 20:33:09.031 [info] [127.0.0.1][77cf6c77][ExtensionHostConnection] <252> Extension Host Process exited with code: 0, signal: null.
+2023-12-12 20:33:09.037 [info] [127.0.0.1][d43fc078][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-12 20:33:10.385 [info] [127.0.0.1][1c5eb6bf][ManagementConnection] New connection established.
+2023-12-12 20:33:10.776 [info] [127.0.0.1][898763e5][ExtensionHostConnection] New connection established.
+2023-12-12 20:33:10.783 [info] [127.0.0.1][898763e5][ExtensionHostConnection] <508> Launched Extension Host Process.
+2023-12-12 21:15:05.049 [info] [127.0.0.1][898763e5][ExtensionHostConnection] <508> Extension Host Process exited with code: 0, signal: null.
+2023-12-12 21:15:05.270 [info] [127.0.0.1][1c5eb6bf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
