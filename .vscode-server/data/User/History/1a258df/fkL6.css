@@ -1,0 +1,17 @@
+.base-1{
+    width: 500px;
+    height: 300px;
+    border: 1px solid #000;
+}
+
+
+/*日本*/
+.japan-circle{
+    width: 180px ;
+    height: 180px;
+    border-radius: 50%;
+    background: #d7003a;
+    margin: auto;
+    vertical-align: ,middle;
+}
+/*日本*/
